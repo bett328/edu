@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GitSharedSettings">
+    <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Algorithms" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Algorithms Math" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Data Preparation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ds-intro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tools" vcs="Git" />
   </component>
