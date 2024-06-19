@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870e34ff-fd76-431b-85a2-cdf9a8b3abde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/edu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Scripts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/array.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Preparation/17.8_Практическая_работа (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Preparation/17.8_Практическая_работа (1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.2 Дубликаты, пропуски и неинформативные данные.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.2 Дубликаты, пропуски и неинформативные данные.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.2 Практика.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.2 Практика.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.4_Практика.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.4_Практика.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/df_clean_upd.scv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Выбросы и аномалии (emissions and anomalies).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Выбросы и аномалии (emissions and anomalies).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Практика. Дубликаты, пропуски и неинформативные данные.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Практика. Дубликаты, пропуски и неинформативные данные.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Приведение типов.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/Приведение типов.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718635800912</updated>
       <workItem from="1718635855258" duration="6006000" />
-      <workItem from="1718806581416" duration="79000" />
+      <workItem from="1718806581416" duration="4168000" />
     </task>
     <servers />
   </component>
