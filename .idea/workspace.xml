@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="870e34ff-fd76-431b-85a2-cdf9a8b3abde" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.5_Практическая работа.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Cleaning/18.5_Практическая работа.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.1 Введение в визуализацию данных. Библиотека matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.1 Введение в визуализацию данных. Библиотека matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.2_Практика.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.2_Практика.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Professional/Documents/coding/edu/Exploratory Data Analysis. Data Cleaning",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,7 +56,9 @@
       <option name="presentableId" value="Default" />
       <updated>1718635800912</updated>
       <workItem from="1718635855258" duration="6006000" />
-      <workItem from="1718806581416" duration="9348000" />
+      <workItem from="1718806581416" duration="9512000" />
+      <workItem from="1718880439347" duration="4199000" />
+      <workItem from="1718894934344" duration="1639000" />
     </task>
     <servers />
   </component>
