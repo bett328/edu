@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870e34ff-fd76-431b-85a2-cdf9a8b3abde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19_data_visualization/homework/19_4_Практическая_работа_sec.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stepik/Python_intro.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/My_DB/My_SQL-DB.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.4 Корреляции.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19.4 Корреляции.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19_data_visualization/homework/19_4_Практическая_работа_.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exploratory Data Analysis. Data Visualization/19_data_visualization/homework/19_4_Практическая_работа_.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-intro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/All_Departments_IDEF0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Synerdy Practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Synerdy Practice.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Professional/Documents/coding/edu/Exploratory Data Analysis. Data Visualization/19_data_visualization/homework",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Professional/Documents/coding/edu/Exploratory Data Analysis. Data Visualization/19_data_visualization/homework&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Professional\Documents\coding\edu\Exploratory Data Analysis. Data Visualization\19_data_visualization\homework" />
@@ -69,7 +69,10 @@
       <workItem from="1718806581416" duration="9512000" />
       <workItem from="1718880439347" duration="4199000" />
       <workItem from="1718894934344" duration="2451000" />
-      <workItem from="1719672749424" duration="11455000" />
+      <workItem from="1719672749424" duration="12188000" />
+      <workItem from="1720112750696" duration="1192000" />
+      <workItem from="1720175327153" duration="914000" />
+      <workItem from="1721300805878" duration="7431000" />
     </task>
     <servers />
   </component>
